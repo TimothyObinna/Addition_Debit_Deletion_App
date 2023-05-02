@@ -1,1 +1,1 @@
-# Addition_Debit_Deletion_App
+This is an app that perform addition, debit and deletion function.
